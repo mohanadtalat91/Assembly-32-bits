@@ -16,5 +16,5 @@ The program should output (1 + 1/1) + (2 + 1/4) + (3 + 1/9) + (4 + 1/16) + ... +
 
 The user inputs: 3
 
-The program outputs: sum=7.361
+The program outputs: sum = 7.361
 
